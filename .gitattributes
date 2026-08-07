@@ -1,0 +1,10 @@
+# Exclude build artifacts
+# Normalize line endings
+package-lock.json linguist-generated
+public/*.html linguist-vendored
+
+*.js linguist-detectable
+
+public/** linguist-vendored
+yarn.lock linguist-generated
+*.md linguist-documentation

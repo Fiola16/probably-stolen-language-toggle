@@ -1,0 +1,10 @@
+coverage/
+.next/
+*.log
+node_modules/
+*.tgz
+yarn-error.log*
+.env
+.cache/
+.DS_Store
+_site/
